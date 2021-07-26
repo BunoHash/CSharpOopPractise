@@ -2,6 +2,7 @@
 using System;
 using System.Windows.Forms;
 using WindowsForms_async_await.book_practise.chap_06;
+using WindowsForms_async_await.book_practise.chap_08;
 
 namespace CSharpOopPractise
 {
@@ -41,7 +42,10 @@ namespace CSharpOopPractise
             //prob.process(sample);
 
             //EnumPractise.Process();
-            GenericPractise.Process();
+            //GenericPractise.Process();
+            WorkingWithText.Test();
+
+            Console.ReadKey();
             
 
            
