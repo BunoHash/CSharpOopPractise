@@ -43,7 +43,8 @@ namespace CSharpOopPractise
 
             //EnumPractise.Process();
             //GenericPractise.Process();
-            WorkingWithText.Test();
+            //WorkingWithText.Test();
+            RegularExpressionTest.Test();
 
             Console.ReadKey();
             
